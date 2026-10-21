@@ -1,6 +1,6 @@
 # WhatsTrending
 
-What's trending right now on Google, TikTok, YouTube, Reddit, X, Amazon, Spotify, Steam and more. Every top 10 on one page, with what moved since yesterday.
+What's trending today, on one page. Trending topics right now on Google, TikTok, YouTube, Reddit, X, Amazon, Spotify, Steam and more, with every top 10 and what moved since yesterday.
 
 - **Today's top 10s:** one page per platform, refreshed daily
 - **What moved:** new entries and climbers since yesterday
